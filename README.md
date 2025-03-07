@@ -13,9 +13,9 @@ I'm **Simon**, a passionate **backend developer** working with **C# and WPF**. I
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## 🚀 Projects  
-🔹 **Pizza Ordering App** – A WPF application for selecting pizzas and sides.  
-🔹 **Task Manager** – A to-do list app with categories and due dates.  
+## 🚀 Notable Projects  
+🔹 **WPF Pizza Ordering App**  
+🔹 ** WPF Task Manager** 
 
 ## 📊 Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SImo21c9&layout=compact&theme=radical)
