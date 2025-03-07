@@ -18,7 +18,9 @@ I'm **Simon**, a passionate **backend developer** working with **C# and WPF**. I
 🔹 ** WPF Task Manager** 
 
 ## 📊 Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SImo21c9&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SImo21c9&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SImo21c9&show_icons=true&theme=radical)
+
 
 ## 📫 Connect With Me  
 - 📨 simonteame436@gmail.com  
