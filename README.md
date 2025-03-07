@@ -18,11 +18,7 @@ I'm **Simon**, a passionate **backend developer** working with **C# and WPF**. I
 🔹 **Task Manager** – A to-do list app with categories and due dates.  
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SImo21c9&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SImo21c9&layout=compact&theme=radical)
-## 🐍 Contribution Graph  
-![Snake animation](https://github.com/SImo21c9/SImo21c9/blob/output/github-contribution-grid-snake.svg)
-
 
 ## 📫 Connect With Me  
 - 📨 simonteame436@gmail.com  
