@@ -17,7 +17,7 @@ I'm **Simon**, a passionate **backend developer** working with **C# and WPF**. I
 🔹 **Pizza Ordering App** – A WPF application for selecting pizzas and sides.  
 🔹 **Task Manager** – A to-do list app with categories and due dates.  
 
-## 📊 GitHub Stats  
+## 📊 Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SImo21c9&layout=compact&theme=radical)
 
 ## 📫 Connect With Me  
