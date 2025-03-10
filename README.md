@@ -20,7 +20,6 @@ I'm **Simon**, a passionate **backend developer** working with **C# and WPF**. I
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SImo21c9&theme=radical)](https://github.com/SImo21c9)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=SImo21c9&theme=radical)](https://github.com/SImo21c9)
 
 
 ## 🚀 Notable Projects  
